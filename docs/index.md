@@ -8,7 +8,7 @@ hero:
   tagline: By Tobi and Philip
   actions:
     - theme: alt
-      text: init link to our docs
+      text: Our Documentations
       link: /arch/bluetooth
 features:
   - title: Tobi - Tobias Janits
