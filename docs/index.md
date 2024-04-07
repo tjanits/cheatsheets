@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Cheatsheets"
   text: "Helps me not to do the same mistake twice"
-  tagline: My great project tagline
+  tagline: Don't make the same mistake twice
   actions:
     - theme: alt
       text: init link to our docs
