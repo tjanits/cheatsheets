@@ -10,7 +10,7 @@ export default defineConfig({
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'Docs', link: '/examples/markdown-examples' }
+            { text: 'Docs', link: '/arch/bluetooth' }
         ],
 
         sidebar: generateSidebar({
