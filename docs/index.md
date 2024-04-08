@@ -10,6 +10,9 @@ hero:
     - theme: alt
       text: Our Documentations
       link: /arch/bluetooth
+    - theme: alt
+      text: Return to GitHub
+      link: https://github.com/tjanits/cheatsheets
 features:
   - title: Tobi - Tobias Janits
     details: The less experienced one, but he wants to learn. He might not always have paid attention in school but got the spirit to become a good developer and expand his knowledge in verious topics.
