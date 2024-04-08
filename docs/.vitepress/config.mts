@@ -14,7 +14,8 @@ export default defineConfig({
         ],
 
         sidebar: generateSidebar({
-            documentRootPath: '/docs'
+            documentRootPath: '/docs',
+            collapsed: true
         }),
 
         socialLinks: [
