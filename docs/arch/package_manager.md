@@ -8,7 +8,7 @@ Tried to update as always:
 ```
 Got presented with an Error-Message: `Pacman is currently in use, please wait...`\
 Found the solution:
-```
+```shell
     // probably needs sudo to work
     rm /var/lib/pacman/db.lck
 ```
